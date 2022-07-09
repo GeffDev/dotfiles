@@ -1,2 +1,2 @@
 # dotfiles
-It's prime time!
+Not really dotfiles at the moment...
