@@ -10,5 +10,4 @@ Not really dotfiles at the moment...
 7. Clone this repo and move the wallpaper folder to Photos, set a wallpaper.
 8. Setup night light times
 9. Enable GNOME minimise and maximise buttons `gsettings set org.gnome.desktop.wm.preferences button-layout ":minimize,maximize,close"`
-10. Install the following GNOME extensions: `Dash to Panel`, `Tray Icons: Reloaded`
-11. Import the DashToPanelConfig file into the extension.
+10. Install the following GNOME extensions: `Transparent Shell`, `Tray Icons: Reloaded`, `Dock from Dash`
