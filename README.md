@@ -12,6 +12,7 @@ Not really dotfiles at the moment...
 9. Enable GNOME minimise and maximise buttons `gsettings set org.gnome.desktop.wm.preferences button-layout ":minimize,maximize,close"`
 10. Install the following GNOME extensions: `Transparent Shell`, `Tray Icons: Reloaded`, `Dock from Dash`
 
+VFIO setup: https://gitlab.com/risingprismtv/single-gpu-passthrough/-/wikis/home
 
 Wallpaper Credits:
 Studiopolis Background by [Patafoin](https://www.youtube.com/watch?v=dZLR5MuBeuk)
